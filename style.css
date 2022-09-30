@@ -113,7 +113,7 @@
 .ex-2-square{
     transition: 9s;
 }
-.ex-2-square:hover{
+.ex-2-square:active{
     width: 500px;
 }
 .ex-3-square{
@@ -147,7 +147,7 @@
 .ex-7-img{
     transition:7s;
 }
-.ex-8-img:hover{
+.ex-7-img:hover{
     filter: grayscale(1) blur(5px);
 }
 .ex-8-img{
